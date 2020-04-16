@@ -14,7 +14,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(7).pdf" style="text-decoration:none;">Don't Count on It! : Reflections on Investment Illusions, Capitalism, "Mutual" Funds, Indexing, Entrepreneurship, Idealism, and Heroes</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(8).pdf" style="text-decoration:none;">Economic Development Through Entrepreneurship</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(9).pdf" style="text-decoration:none;">Emerging Paradigms in International Entrepreneurship/a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(9).pdf" style="text-decoration:none;">Emerging Paradigms in International Entrepreneurship</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(10).pdf" style="text-decoration:none;">Employee to Entrepreneur: How to Earn Your Freedom and Do Work That Matters</a></li>
 
 
