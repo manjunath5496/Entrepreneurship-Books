@@ -1,22 +1,21 @@
 <ul>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(1).pdf" style="text-decoration:none;">Industrial Design Engineering: Inventive Problem Solving</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(1).pdf" style="text-decoration:none;">Innovation and Entrepreneurship</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(2).pdf" style="text-decoration:none;">No
-Wonder You Wonder!: Great Inventions and Scientific Mysteries</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(2).pdf" style="text-decoration:none;">50 Billion Dollar Boss: African American Women Sharing Stories of Success in Entrepreneurship and Leadership</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(3).pdf" style="text-decoration:none;">Inventing the Business of Opera: The Impresario and His World in Seventeenth-Century Venice</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(4).pdf" style="text-decoration:none;">The Metal Life Car: The Inventor, the Impostor, and the Business of Life saving</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(5).pdf" style="text-decoration:none;">The inventions, researches and writing of Nikola Tesla</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(3).pdf" style="text-decoration:none;">Corporate Entrepreneurship</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(4).pdf" style="text-decoration:none;">Corporate Entrepreneurship: Top Managers and New Business Creation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(5).pdf" style="text-decoration:none;">Cultural Entrepreneurship: At the Crossroads of People, Place, and Prosperity</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(6).pdf" style="text-decoration:none;">Ancient Engineers' Inventions: Precursors of the Present</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(6).pdf" style="text-decoration:none;">Disciplined Entrepreneurship Workbook</a></li>
                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(7).pdf" style="text-decoration:none;">The Fantastic Inventions of Nikola Tesla</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(7).pdf" style="text-decoration:none;">Don't Count on It! : Reflections on Investment Illusions, Capitalism, "Mutual" Funds, Indexing, Entrepreneurship, Idealism, and Heroes</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(8).pdf" style="text-decoration:none;">Make: Fabric and Fiber Inventions</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(9).pdf" style="text-decoration:none;">Branding Yourself: How to Use Social Media to Invent or Reinvent Yourself/a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(10).pdf" style="text-decoration:none;">How to Invent Everything: A Survival Guide for the Stranded Time Traveler</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(8).pdf" style="text-decoration:none;">Economic Development Through Entrepreneurship</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(9).pdf" style="text-decoration:none;">Emerging Paradigms in International Entrepreneurship/a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(10).pdf" style="text-decoration:none;">Employee to Entrepreneur: How to Earn Your Freedom and Do Work That Matters</a></li>
 
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(11).pdf" style="text-decoration:none;">Shay Pendray's inventive needlework</a></li>
