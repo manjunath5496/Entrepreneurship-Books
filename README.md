@@ -167,7 +167,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(101).pdf" style="text-decoration:none;">Lean Entrepreneurship: Innovation in the Modern Enterprise</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(102).pdf" style="text-decoration:none;">Never Bet the Farm: How Entrepreneurs Take Risks, Make Decisions—and How You Can, Too</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(103).pdf" style="text-decoration:none;">TO MAKE $1000: Practical Suggestions, Based on Actual Experience, for Starting a Business of Your Own and Making Money in Your Spare Time</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(103).pdf" style="text-decoration:none;">Founders at Work: Stories of Startups' Early Days</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(104).pdf" style="text-decoration:none;">TO MAKE $1000: Practical Suggestions, Based on Actual Experience, for Starting a Business of Your Own and Making Money in Your Spare Time</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(105).pdf" style="text-decoration:none;">Post-Capitalist Entrepreneurship: Startups for the 99%</a></li>
