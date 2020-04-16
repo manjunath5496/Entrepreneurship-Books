@@ -204,6 +204,39 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(126).pdf" style="text-decoration:none;">Understanding Social Entrepreneurship</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(127).pdf" style="text-decoration:none;">Good to Great: Why Some Companies Make the Leap...And Others Don't </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(128).pdf" style="text-decoration:none;">Hooked: How to Build Habit-Forming Products</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(129).pdf" style="text-decoration:none;">How they started: how 25 good ideas became great companies</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(130).pdf" style="text-decoration:none;">Measure What Matters</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(131).pdf" style="text-decoration:none;">Secrets of the Millionaire Mind</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(132).pdf" style="text-decoration:none;">Seeing What's Next: Using the Theories of Innovation to Predict Industry Change</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(133).pdf" style="text-decoration:none;">The 4-Hour Workweek</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(134).pdf" style="text-decoration:none;">The Hard Thing About Hard Things</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(135).pdf" style="text-decoration:none;">The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(136).pdf" style="text-decoration:none;">The Psychology of Selling</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(137).pdf" style="text-decoration:none;">The Why of Work? </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(138).pdf" style="text-decoration:none;">Think and Grow Rich </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(139).pdf" style="text-decoration:none;">This is Marketing: You Can't Be Seen Until You Learn To Se</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(140).pdf" style="text-decoration:none;"> Zero to One: Notes on Startups, or How to Build the Future</a></li>
+
+
+
+
+
+
+
+
+
+
+
 </ul>
 
 </br>
