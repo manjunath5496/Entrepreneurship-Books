@@ -166,45 +166,43 @@
                            
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(101).pdf" style="text-decoration:none;">Lean Entrepreneurship: Innovation in the Modern Enterprise</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(102).pdf" style="text-decoration:none;">Isaac Newton: Inventor, Scientist, and Teacher</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(103).pdf" style="text-decoration:none;">
-Classical and modern mechanisms for engineers and inventors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(102).pdf" style="text-decoration:none;">Never Bet the Farm: How Entrepreneurs Take Risks, Make Decisions—and How You Can, Too</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(103).pdf" style="text-decoration:none;">TO MAKE $1000: Practical Suggestions, Based on Actual Experience, for Starting a Business of Your Own and Making Money in Your Spare Time</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(104).pdf" style="text-decoration:none;">The Laser Inventor: Memoirs of Theodore H. Maiman</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(105).pdf" style="text-decoration:none;">Lincoln the Inventor</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(104).pdf" style="text-decoration:none;">TO MAKE $1000: Practical Suggestions, Based on Actual Experience, for Starting a Business of Your Own and Making Money in Your Spare Time</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(105).pdf" style="text-decoration:none;">Post-Capitalist Entrepreneurship: Startups for the 99%</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(106).pdf" style="text-decoration:none;">Lives and Legacies: An Encyclopedia of People Who Changed the World</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(107).pdf" style="text-decoration:none;">From Idea to Innovation: A Handbook for Inventors, Decision Makers and Organizations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(106).pdf" style="text-decoration:none;">Rebooting Work: Transform How You Work in the Age of Entrepreneurship</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(107).pdf" style="text-decoration:none;">Shark Tank Jump Start Your Business: How to Launch and Grow a Business from Concept to Cash</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(108).pdf" style="text-decoration:none;">TinkerLab 55 Playful Experiments That Encourage Tinkering Curiosity Creative Thinking</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(108).pdf" style="text-decoration:none;">Social economy and social entrepreneurship</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(109).pdf" style="text-decoration:none;">The scientists: a history of science told through the lives of its greatest inventors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(110).pdf" style="text-decoration:none;">American Inventors: A History of Genius</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(111).pdf" style="text-decoration:none;">Steamboats Come True: American Inventors in Action</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(109).pdf" style="text-decoration:none;">Sport Entrepreneurship: Developing and Sustaining an Entrepreneurial Sports Culture</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(110).pdf" style="text-decoration:none;">Strategic Entrepreneurship</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(111).pdf" style="text-decoration:none;">The 10% Entrepreneur</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(112).pdf" style="text-decoration:none;">The Men Who United the States: America's Explorers, Inventors, Eccentrics, and Mavericks, and the Creation of One Nation, Indivisible</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(113).pdf" style="text-decoration:none;">The Eureka Method: How to Think Like an Inventor</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(112).pdf" style="text-decoration:none;">The 30 Day MBA: Your Fast Track Guide to Business Success</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(113).pdf" style="text-decoration:none;">The Blackwell Encyclopedia of Management, Entrepreneurship</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(114).pdf" style="text-decoration:none;">Leonardo da Vinci: Artist, Inventor, and Renaissance Man</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(114).pdf" style="text-decoration:none;">The Cyclic Nature of Innovation: Connecting Hard Sciences with Soft Values: Vol. 17</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(115).pdf" style="text-decoration:none;">The 100 Most Influential Inventors of All Time</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(116).pdf" style="text-decoration:none;">Scientists Behind the Inventors: The Stories behind the leading scientists two centuries whose contributions made possible today's wonders of invention</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(117).pdf" style="text-decoration:none;">The Alchemist</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(115).pdf" style="text-decoration:none;">The Dream: How I Learned the Risks and Rewards of Entrepreneurship and Made Millions</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(116).pdf" style="text-decoration:none;">The E-Factor: Entrepreneurship in the Social Media Age</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(117).pdf" style="text-decoration:none;">The Freaks Shall Inherit the Earth: Entrepreneurship for Weirdos, Misfits, and World Dominators</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(118).pdf" style="text-decoration:none;">Innovate Like Edison:The Success System of America's Greatest Inventor </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(119).pdf" style="text-decoration:none;">Charles Babbage, philosopher, reformer, inventor: a history of his contributions to science</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(120).pdf" style="text-decoration:none;">Scalable Innovation: A Guide for Inventors, Entrepreneurs, and IP Professionals </a></li>
-
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(121).pdf" style="text-decoration:none;">
-China's Young Inventors: A Systemic View of the Individual and Environmental Factors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(122).pdf" style="text-decoration:none;">Coders at Work: Reflections on the Craft of Programming</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(123).pdf" style="text-decoration:none;">Famous Inventors and Scientists in Physics</a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(124).pdf" style="text-decoration:none;">Freud: Inventor of the Modern Mind</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(125).pdf" style="text-decoration:none;">The Entrepreneurial Spirit of African American Inventors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(118).pdf" style="text-decoration:none;">The Hidden Enterprise Culture </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(119).pdf" style="text-decoration:none;">The Silicon Valley Model: Management for Entrepreneurship</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(120).pdf" style="text-decoration:none;">The World that Changes the World: How philanthropy, innovation, and entrepreneurship are transforming the social ecosystem </a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(121).pdf" style="text-decoration:none;">Third Circle Theory: Purpose Through Observation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(122).pdf" style="text-decoration:none;">Tourism and Entrepreneurship: International Perspectives</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(123).pdf" style="text-decoration:none;">Transforming Rural Communities in China and Beyond</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(124).pdf" style="text-decoration:none;">Trust: Creating the Foundation for Entrepreneurship in Developing Countries</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(125).pdf" style="text-decoration:none;">Understanding Motivations for Entrepreneurship</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(126).pdf" style="text-decoration:none;">Understanding Social Entrepreneurship</a></li>
 
 </ul>
 
