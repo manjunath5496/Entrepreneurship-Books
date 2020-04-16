@@ -58,7 +58,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(32).pdf" style="text-decoration:none;">Harvard Business Review On Entrepreneurship</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(33).pdf" style="text-decoration:none;">The Impact of Entrepreneurship Education: An Evaluation of the Berger Entrepreneurship Program at the University of Arizona, 1985-1999</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(34).pdf" style="text-decoration:none;">Industry 4.: 0Entrepreneurship and Structural Change in the New Digital Landscape</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(34).pdf" style="text-decoration:none;">Industry 4.0: Entrepreneurship and Structural Change in the New Digital Landscape</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(35).pdf" style="text-decoration:none;">Innovation and Entrepreneurship: Theory, Policy and Practice</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(36).pdf" style="text-decoration:none;">Introduction to Entrepreneurship</a></li>                              
