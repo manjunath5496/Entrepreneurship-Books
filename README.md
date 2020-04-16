@@ -69,53 +69,52 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(39).rar" style="text-decoration:none;"> Leadership, Innovation and Entrepreneurship as Driving Forces of the Global Economy</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(40).pdf" style="text-decoration:none;">Managing People in Entrepreneurial Organizations</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(41).pdf" style="text-decoration:none;">Artificial Mythologies: A Guide to Cultural Invention</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(42).pdf" style="text-decoration:none;">Shakespeare: The Invention of the Human</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(41).pdf" style="text-decoration:none;">Measuring Entrepreneurship</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(42).pdf" style="text-decoration:none;">Narrative and Discursive Approaches in Entrepreneurship</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(43).pdf" style="text-decoration:none;">The Britannica Guide to Inventions That Changed the Modern World</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(44).pdf" style="text-decoration:none;"> Suppressed Inventions and Other Discoveries</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(45).pdf" style="text-decoration:none;">Tesla: Inventor of the Electrical Age</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(43).pdf" style="text-decoration:none;">New Challenges in Entrepreneurship and Finance</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(44).pdf" style="text-decoration:none;"> Good Practice in Market Surveillance Activities related to Non-Food Consumer Products sold Online</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(45).pdf" style="text-decoration:none;">Responsible Entrepreneurship. Vision, Development and Ethics</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(46).pdf" style="text-decoration:none;">
-The Invention of Enterprise: Entrepreneurship from Ancient Mesopotamia to Modern Times</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(47).pdf" style="text-decoration:none;">Inventing Human Rights: A History</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(48).pdf" style="text-decoration:none;">An Empire of Their Own: How the Jews Invented Hollywood</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(46).pdf" style="text-decoration:none;">Shaping Entrepreneurial Mindsets</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(47).pdf" style="text-decoration:none;">Silicon Valley North: A High-Tech Cluster of Innovation and Entrepreneurship </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(48).pdf" style="text-decoration:none;">Small Business Success Roadmap: A Winning Step By Step Guide To Extraordinary Entrepreneurship</a></li>  
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(49).pdf" style="text-decoration:none;">How To Invent (Almost) Anything: Serious Innovation using Science and Psychology</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(50).pdf" style="text-decoration:none;">Inventing New Beginnings: On the Idea of Renaissance in Modern Judaism</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(49).pdf" style="text-decoration:none;">Social entrepreneurship: how to start successful corporate social responsibility and community-based initiatives for advocacy and change</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(50).pdf" style="text-decoration:none;">Social Entrepreneurship For Dummies</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(51).pdf" style="text-decoration:none;">Masters of Death: The SS-Einsatzgruppen and the Invention of the Holocaust</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(52).pdf" style="text-decoration:none;">How to License Your Million Dollar Idea: Cash In On Your Inventions, New Product Ideas, Software, Web Business Ideas, And More</a></li> 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(53).pdf" style="text-decoration:none;">Mesopotamia: The Invention of the City</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(54).pdf" style="text-decoration:none;">The Inventor's Secret</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(55).pdf" style="text-decoration:none;">Systems Thinking: Managing Chaos and Complexity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(51).pdf" style="text-decoration:none;">Stay Hungry, Stay Foolish</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(52).pdf" style="text-decoration:none;">Technology Entrepreneurship: A Treatise on Entrepreneurs and Entrepreneurship for and in Technology Ventures</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(53).pdf" style="text-decoration:none;">Entrepreneurship: Strategies and Resources</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(54).pdf" style="text-decoration:none;">The Alibaba way: unleashing grassroots entrepreneurship to build the world’s most innovative internet company</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(55).pdf" style="text-decoration:none;">The Dynamics of Entrepreneurship: Evidence from the Global Entrepreneurship Monitor Data</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(56).pdf" style="text-decoration:none;">Inventing God: Psychology of Belief and the Rise of Secular Spirituality</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(57).pdf" style="text-decoration:none;">Inventing God's Law: How The Covenant Code Of The Bible Used And Revised The Laws Of Hammurabi</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(56).pdf" style="text-decoration:none;">The Entrepreneur Mind</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(57).pdf" style="text-decoration:none;">The Entrepreneur Roller Coaster: Why Now Is the Time to #JoinTheRide</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(58).pdf" style="text-decoration:none;">How to Invent and Protect Your Invention: A Guide to Patents for Scientists and Engineers</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(59).pdf" style="text-decoration:none;">The Practical Einstein: Experiments, Patents, Inventions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(58).pdf" style="text-decoration:none;">The Guide to Entrepreneurship: How to Create Wealth for Your Company and Stakeholders</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(59).pdf" style="text-decoration:none;">The Intelligent Entrepreneur: How Three Harvard Business School Graduates Learned the 10 Rules of Successful Entrepreneurship</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(60).pdf" style="text-decoration:none;">Mad Science: Einstein's Fridge, Dewar's Flask, Mach's Speed, and 362 Other Inventions and Discoveries that Made Our World</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(60).pdf" style="text-decoration:none;">The Invention of Enterprise: Entrepreneurship from Ancient Mesopotamia to Modern Times</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(61).pdf" style="text-decoration:none;">Great Inventions that Changed the World</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(62).pdf" style="text-decoration:none;">Deeply into the bone: re-inventing rites of passage</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(61).pdf" style="text-decoration:none;">The Lean Startup</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(62).pdf" style="text-decoration:none;">The Oxford Handbook of Creativity, Innovation, and Entrepreneurship</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(63).pdf" style="text-decoration:none;">Mad Like Tesla: Underdog Inventors and their Relentless Pursuit of Clean Energy</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(64).pdf" style="text-decoration:none;">The Invention of "Folk Music" and "Art Music"</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(63).pdf" style="text-decoration:none;">The Politics and Aesthetics of Entrepreneurship</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(64).pdf" style="text-decoration:none;">The Process of Social Value Creation: A Multiple-Case Study on Social Entrepreneurship in India</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(65).pdf" style="text-decoration:none;">Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(66).pdf" style="text-decoration:none;">Inventing Atmospheric Science</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(65).pdf" style="text-decoration:none;">The Spirit of Entrepreneurship: Exploring the Essence of Entrepreneurship Through Personal Stories</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(66).pdf" style="text-decoration:none;">The Economics of Entrepreneurship</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(67).pdf" style="text-decoration:none;">
-Netflix and the Re-invention of Television</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(68).pdf" style="text-decoration:none;">The Rate and Direction of Inventive Activity Revisited</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(67).pdf" style="text-decoration:none;">The Guru Guide to Entrepreneurship: A Concise Guide to the Best Ideas from the World's Top Entrepreneurs</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(69).pdf" style="text-decoration:none;">Rules for a Flat World: Why Humans Invented Law and How to Reinvent It for a Complex Global Economy</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(70).pdf" style="text-decoration:none;">Invent To Learn: Making, Tinkering, and Engineering in the Classroom</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(68).pdf" style="text-decoration:none;">Trump University Entrepreneurship 101: How to Turn Your Idea into a Money Machine</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(69).pdf" style="text-decoration:none;">University Entrepreneurship and Technology Transfer: Process, Design, and Intellectual Property</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(70).pdf" style="text-decoration:none;">UNSCRIPTED: Life, Liberty, and the Pursuit of Entrepreneurship</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(71).pdf" style="text-decoration:none;">Venture Capital and the Inventive Process</a></li>
-
 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(72).pdf" style="text-decoration:none;">Weaving the Universe: Is Modern Cosmology Discovered or Invented?</a></li>                              
