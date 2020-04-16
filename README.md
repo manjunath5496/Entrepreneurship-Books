@@ -120,7 +120,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(72).pdf" style="text-decoration:none;">A History of Entrepreneurship</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(73).pdf" style="text-decoration:none;">An Introduction to Social Entrepreneurship</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(74).pdf" style="text-decoration:none;">Fatal Invention: How Science, Politics, and Big Business Re-Create Race in the 21st Century</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(74).pdf" style="text-decoration:none;">The Art of the Start</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(75).pdf" style="text-decoration:none;">Anyone Can Do It: Building Coffee Republic from Our Kitchen Table - 57 Real-Life Laws on Entrepreneurship</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(76).pdf" style="text-decoration:none;">Architect and Entrepreneur: A Field Guide to Building, Branding, and Marketing Your Startup Design Business </a></li>
