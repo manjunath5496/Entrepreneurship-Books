@@ -152,7 +152,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(92).pdf" style="text-decoration:none;">Entrepreneurship, Geography, and American Economic Growth</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(93).pdf" style="text-decoration:none;">Entrepreneurship: The seeds of success</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(94).pdf" style="text-decoration:none;">The Ultimate Minecraft Creator: The Unofficial Building Guide to Minecraft and Other Games</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(94).pdf" style="text-decoration:none;">The 7 Habits of Highly Effective People</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(95).pdf" style="text-decoration:none;">Fostering Innovation and Entrepreneurship</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Entrepreneurship-Books/blob/master/ent(96).pdf" style="text-decoration:none;"> From Science to Startup: The Inside Track of Technology Entrepreneurship</a></li>                              
